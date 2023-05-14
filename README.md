@@ -1,7 +1,7 @@
 ### Olá!!! Eu sou o Guilherme Leandro 🤙
 <html>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspSou desenvolver de software, e trabalho na SoftExpert.<br>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNo momento estou estudando Engenharia de Software na Univille.
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNo momento estou estudando Engenharia de Software na Univille.<br><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme.leandro/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-leandro-pinto-26090520b/)
